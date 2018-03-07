@@ -18,7 +18,7 @@ $ npm install --save react-native-router-flux
 ## 5: run
 $ npm start
 
-![alt text](https://github.com/tingchaoxu/Diary/tree/master/display/1.jpeg)
+![alt text](https://github.com/tingchaoxu/Diary/tree/master/display/to/1.jpeg)
 ![alt text](https://github.com/tingchaoxu/Diary/tree/master/display/2.jpeg)
 ![alt text](https://github.com/tingchaoxu/Diary/tree/master/display/3.jpeg)
 ![alt text](https://github.com/tingchaoxu/Diary/tree/master/display/4.jpeg)
